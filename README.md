@@ -41,11 +41,6 @@ intelligent systems and full-stack products.
 ![GitHub Streak](https://streak-stats.demolab.com?user=manyataasaxena&theme=tokyonight)
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manyataasaxena&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ## 🤝 Connect With Me
 
@@ -54,9 +49,6 @@ intelligent systems and full-stack products.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manyataasaxena)
 
 ---
-## 🐍 Contribution Graph
-
-![GitHub Snake](https://raw.githubusercontent.com/manyataasaxena/manyataasaxena/output/github-contribution-grid-snake.svg)
 
 <!--
 **manyataasaxena/manyataasaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
