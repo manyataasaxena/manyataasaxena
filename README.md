@@ -36,7 +36,6 @@ intelligent systems and full-stack products.
 
 ## 📊 GitHub Stats
 
-![Manyata's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyataasaxena&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manyataasaxena&theme=tokyonight)
 
