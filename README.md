@@ -39,9 +39,8 @@ intelligent systems and full-stack products.
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-eight-lyart.vercel.app/api?username=manyataasaxena&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manyataasaxena&theme=tokyonight" alt="GitHub Streak" />
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=manyataasaxena&layout=compact&theme=tokyonight" alt="Top Languages" />
