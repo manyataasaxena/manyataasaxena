@@ -40,10 +40,11 @@ intelligent systems and full-stack products.
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=manyataasaxena&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-eight-lyart.vercel.app/api?username=manyataasaxena&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=manyataasaxena&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=manyataasaxena&layout=compact&theme=tokyonight" alt="Top Languages" />
 ---
 
 ### ✍️ Random Dev Quote
