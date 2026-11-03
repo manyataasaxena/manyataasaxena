@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
+<img src="./assets/images/stats.svg" width="620" alt="Contributions in the last year"/>
+
 # 🌱About Me
 
 ### 💻 AI/ML Developer | Full-Stack Developer
