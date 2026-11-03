@@ -39,11 +39,11 @@ intelligent systems and full-stack products.
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=manyataasaxena&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!-- GitHub Stats (Backup Endpoint) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manyataasaxena&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyataasaxena&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!-- Most Used Languages (Backup Endpoint) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manyataasaxena&layout=compact&theme=tokyonight" alt="Top Languages" />
 ---
 
 ### ✍️ Random Dev Quote
