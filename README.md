@@ -39,11 +39,7 @@ intelligent systems and full-stack products.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-153-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current_Streak-22_Days-orange?style=for-the-badge&logo=github-actions" />
-  <img src="https://img.shields.io/badge/Longest_Streak-22_Days-firebrick?style=for-the-badge&logo=git" />
-</p>
+![](https://streak-stats.demolab.com/?user=manyataasaxena&theme=dark&hide_border=false)<br/>
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=manyataasaxena&layout=compact&theme=tokyonight" alt="Top Languages" />
